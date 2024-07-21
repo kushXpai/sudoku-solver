@@ -8,15 +8,6 @@ This project is a Python-based Sudoku solver that uses a backtracking algorithm 
 - Uses backtracking to find the solution.
 - Simulates keyboard inputs to display the solution visually.
 
-## Demo
-
-Watch a demo of the Sudoku Solver in action:
-
-<video width="600" controls>
-  <source src="assets/Sudoku-Solver.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ## Requirements
 
 - Python 3.x
