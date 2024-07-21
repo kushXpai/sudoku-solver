@@ -18,7 +18,7 @@ This project is a Python-based Sudoku solver that uses a backtracking algorithm 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sudoku-solver.git
+    git clone https://github.com/kushXpai/sudoku-solver.git
     cd sudoku-solver
     ```
 
